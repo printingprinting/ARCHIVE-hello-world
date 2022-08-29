@@ -1,6 +1,5 @@
 # hello-world
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 Hi beings! 
 
